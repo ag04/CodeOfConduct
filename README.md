@@ -16,7 +16,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 We expect everyone to follow these rules anywhere in AGENCY04 project codebases, issue trackers, chat-rooms, and mailing lists and of course live conversations .
 
-Finally, don't forget that it is human to make mistakes! We all do. Let’s work together to help each other, resolve issues, and learn from the mistakes that we will all inevitably make from time to time.
+Finally, don't forget that it is human to make mistakes! We all do. Let's work together to help each other, resolve issues, and learn from the mistakes that we will all inevitably make from time to time.
 
 ## Thanks
 Thanks to [thoughtbot Code of Conduct](https://thoughtbot.com/open-source-code-of-conduct) - this text has largely been copied from it - we feel that it states our intentions and thoughts perfectly.
