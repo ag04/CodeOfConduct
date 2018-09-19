@@ -6,7 +6,7 @@ In order to foster an inclusive, kind, harassment-free, and cooperative communit
 Harassment in code and discussion or violation of physical boundaries is completely unacceptable anywhere in AGENCY04 project codebases, issue trackers, chat-rooms, mailing lists, meetups, other events and every day conversations between ourselves and/or our customers and partners. Violators will be warned by any AGENCY04 member. Repeat violations will result in a one-on-one talk with the CEO at or before the 3rd violation.
 
 ## In detail
-Harassment includes offensive verbal comments related to gender identity, gender expression, sexual orientation, disability, physical appearance,body size, race, religion, sexual images, deliberate intimidation, stalking, sustained disruption, and unwelcome sexual attention.
+Harassment includes offensive verbal comments related to gender identity, gender expression, sexual orientation, disability, physical appearance, body size, race, religion, sexual images, deliberate intimidation, stalking, sustained disruption, and unwelcome sexual attention.
 
 Individuals asked to stop any harassing behavior are expected to comply immediately.
 
